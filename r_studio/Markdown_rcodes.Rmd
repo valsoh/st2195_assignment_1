@@ -1,0 +1,11 @@
+# List of codes below 
+
+## Rscript Codes and Result
+
+```{r}
+k <- 0
+for (i in 1:10){
+  k <- k+1
+  print(k)
+}
+```
